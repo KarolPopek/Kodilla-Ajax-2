@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Pacifico');
+
+body {
+	font-family: 'Lato';
+	font-weight: 400;
+	font-size: 22px;
+	background-color: rgb(52, 152, 219);
+	text-align: center;
+}
+
+header {
+	margin-top: 2%;
+	font-size: 15px;
+}
+
+.quote {
+	margin: 10% 0 2% 0;
+	font-family: 'Pacifico';
+}
+
+.author {
+	font-size: 18px;
+}
+
+.trigger {
+	margin-top: 17%;
+	padding: 17px;
+	font-weight: 700;
+	border: 0;
+	background-color: rgb(142, 68, 173);
+	color: #fff;
+	font-size: 22px;
+}
+
+.trigger:hover {
+	background-color: rgb(155, 89, 182);
+	cursor: pointer;
+}
+
+.tweet {
+	text-decoration: none;
+	margin: 20% 0 0 5%;
+	color: rgb(236, 240, 241);
+	border: 2px solid #fff;
+	padding: 15px 45px 15px 35px;
+}
+
+.tweet:hover {
+	color: rgb(52, 152, 219);
+	background-color: rgb(236, 240, 241);
+	cursor: pointer;
+}
+
+i {
+	margin-right: 1%;
+}
+
+
+
+
+
+
